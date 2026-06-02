@@ -32,7 +32,7 @@ This is the live Streamlit web server. It does not do any ML math. It simply loa
 
 1. Clone the repository
 Bash
-git clone https://github.com/yourusername/netflix-ai-recommender.git
+git clone [https://github.com/yourusername/netflix-ai-recommender.git](https://github.com/RohitKumarJain16/Reveal-categories-found-in-data/tree/main)
 cd netflix-ai-recommender
 2. Create a Virtual Environment (Recommended)
 Bash
